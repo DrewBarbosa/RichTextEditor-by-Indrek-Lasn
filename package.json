@@ -10,7 +10,8 @@
     "react-icons-kit": "^1.1.6",
     "react-scripts": "1.1.4",
     "slate": "^0.34.7",
-    "slate-react": "^0.13.4"
+    "slate-react": "^0.13.4",
+    "yarn-upgrade-all": "^0.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
